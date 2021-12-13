@@ -13,6 +13,7 @@ The purpose of this analysis is to find out the temperature trends before openin
 </br>![Summary Statistics for June:](https://github.com/dhaval-28/surfs_up/blob/main/june_temp.png)
 
 **Summary Statistics for December:**
+</br>![Summary Statistics for June:](https://github.com/dhaval-28/surfs_up/blob/main/dec_temp.png)
 
 **Three key differences in weather between June and December**
 * 1.
