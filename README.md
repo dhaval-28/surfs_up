@@ -12,5 +12,7 @@ The purpose of this analysis is to find out the temperature trends before openin
 
 **Three key differences in weather between June and December**
 * 1.
+* 2.
+* 3.
 
 ## Summary :
