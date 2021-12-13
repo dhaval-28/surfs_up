@@ -9,6 +9,6 @@ To view the main file click here :
 Summary Statistics for June:
 
 
-“*” three key differences in weather between June and December. (6 pt)
+* three key differences in weather between June and December. (6 pt)
 
 ## Summary :
