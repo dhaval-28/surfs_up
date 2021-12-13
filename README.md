@@ -6,9 +6,11 @@ The purpose of this analysis is to find out the temperature trends before openin
 ## Results :
 **To view the main file click here :**
 
-Summary Statistics for June:
+**Summary Statistics for June:**
 
+**Summary Statistics for December:**
 
-* three key differences in weather between June and December. (6 pt)
+**Three key differences in weather between June and December**
+*1.
 
 ## Summary :
