@@ -7,7 +7,7 @@ The purpose of this analysis is to find out the temperature trends before openin
 **To view the main file click here :** ![Click here for SurfsUp_Challenge.ipynb](https://github.com/dhaval-28/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 **Summary Statistics for June:**
-![June Summary](https://github.com/dhaval-28/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
+(https://github.com/dhaval-28/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 **Summary Statistics for December:**
 
