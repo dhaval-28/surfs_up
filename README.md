@@ -21,4 +21,10 @@ The purpose of this analysis is to find out the temperature trends before openin
 * 3. Sqlite files has data for June 2017 but does not have data for Dec 2017.  This is resulting in weather data available for 1 extra year for June. 
 
 ## Summary :
+By doing the comparison of June and December, we can summarize that the temperature patterns remain almost same throughout the year. 
+
+There are two additional queries which can ger a better understanding of the weather pattern of Oahu. 
+
+* 1.	highest temperature recorded, and average temperature of most active station for June and December.
+* 2. It would also help if the query is performed to gather the precipitation data for June and December.  Although temperatures may remain about the same throughout the year, precipitation may not and would also have a significant impact of the business's sustainability.
 
