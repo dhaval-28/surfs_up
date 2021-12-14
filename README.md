@@ -16,9 +16,9 @@ The purpose of this analysis is to find out the temperature trends before openin
 </br>![Summary Statistics for June:](https://github.com/dhaval-28/surfs_up/blob/main/dec_temp.png)
 
 **Three key differences in weather between June and December**
-* 1.
-* 2.
-* 3.
+* 1. The minimum temperature for June is 64 while for December for 56.  December can get more colder (less warmer) than June and could adversely impact the sales. 
+* 2. The Max temperature is Max temperature for Dec is 83 while it’s 85 for June. Which is not much different. 
+* 3. Sqlite files has data for June 2017 but does not have data for Dec 2017.  This is resulting in weather data available for 1 extra year for June. 
 
 ## Summary :
 
