@@ -25,6 +25,6 @@ By doing the comparison of June and December, we can summarize that the temperat
 
 There are two additional queries which can ger a better understanding of the weather pattern of Oahu. 
 
-* 1.	highest temperature recorded, and average temperature of most active station for June and December.
+* 1.	Highest temperature recorded, and average temperature of most active station for June and December.
 * 2. It would also help if the query is performed to gather the precipitation data for June and December.  Although temperatures may remain about the same throughout the year, precipitation may not and would also have a significant impact of the business's sustainability.
 
